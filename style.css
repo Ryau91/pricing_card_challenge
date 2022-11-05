@@ -106,7 +106,7 @@ button {
 
 button:hover {
   cursor: pointer;
-  transform: scale(10);
+  transform: scale(1.05);
 }
 
 #bottom-right-section {
